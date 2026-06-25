@@ -6,7 +6,7 @@ Private, bespoke AI trainings for teams. Give your whole team an engineer's supe
 
 [Book a free discovery call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2m-AxM9LTpiQBEeQcDN4UW-vqTGJhlcYVNbSPnqIi3R_o0Y12bPsnQeBdm4BE3uwqPjLbyBboY)
 
-
+---
 
 A simple, repeatable way to go from *"this everyday thing annoys me"* to a working app — using an AI chat assistant and five copy-paste prompts. No coding or technical background needed.
 
