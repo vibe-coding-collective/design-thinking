@@ -1,5 +1,5 @@
 # Design Thinking for Vibe Coders
-[vibecoders.global](vibecoders.global)
+[vibecoders.global](https://vibecoders.global/)
 
 A simple, repeatable way to go from *"this everyday thing annoys me"* to a working app — using an AI chat assistant and five copy-paste prompts. No coding or technical background needed.
 
