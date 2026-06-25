@@ -139,9 +139,6 @@ That's the whole loop. Run it again any time something bugs you — every annoya
 [Making the Invisible Visible](https://www.strategyxdesign.co.uk/tools-for-thinking/)
 
 
-[Making the Invisible Visible](https://www.strategyxdesign.co.uk/tools-for-thinking/)
-
-
 [How to explain your AI system to your users](https://pair.withgoogle.com/guidebook/patterns)
 
 
