@@ -130,4 +130,8 @@ via a high-level design brief from the customer perspective.
 
 That's the whole loop. Run it again any time something bugs you — every annoyance is a candidate for your next app.
 
+
+<img width="1800" height="1270" alt="image" src="https://github.com/user-attachments/assets/d323a6d9-5234-4988-b0dd-431e3f5e0209" />
+
+
 <sub>From the Vibe Coding Collective · vibecoders.global</sub>
