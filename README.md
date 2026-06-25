@@ -8,6 +8,9 @@ Private, bespoke AI trainings for teams. Give your whole team an engineer's supe
 
 ---
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e35b32b1-dda3-441f-9e38-034a4286a2f4" />
+
+
 A simple, repeatable way to go from *"this everyday thing annoys me"* to a working app — using an AI chat assistant and five copy-paste prompts. No coding or technical background needed.
 
 Each step is just one conversation with an AI. You paste in a prompt, save what it gives back, and carry it into the next step.
