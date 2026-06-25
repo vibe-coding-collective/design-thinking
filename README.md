@@ -15,10 +15,10 @@ flowchart LR
 
 ## What you'll need
 
-- **A problem you care about**, plus a quick fishbone diagram of it. *(A fishbone diagram is a simple sketch: your problem sits on the right, and the possible causes branch off it like the bones of a fish — an easy way to lay out everything feeding into it.)*
+- **A problem you or your teammate cares about**, plus a quick fishbone diagram of it. *(A fishbone diagram is a simple sketch: your problem sits on the right, and the possible causes branch off it like the bones of a fish — an easy way to lay out everything feeding into it.)*
 - **An AI chat assistant** (such as Claude or ChatGPT).
-- **A vibe-coding tool** — anything that turns a written description into a working app.
-- **About an hour.**
+- **A vibe-coding tool** — anything that turns a written description into a working app (Claude code, Google AI Studio, Lovable, v0, Bolt, etc.)
+- **40 mins**
 
 A note on chats: some steps say *start a new chat*. That's on purpose — a fresh chat keeps the AI from getting anchored on earlier back-and-forth, so each stage starts clean.
 
